@@ -1,10 +1,10 @@
 
 
-> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en) [thesis](https://www.repository.cam.ac.uk/handle/1810/245655) [cv]({{ site.url }}/assets/fak.pdf) 
+> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en) [thesis](https://www.repository.cam.ac.uk/handle/1810/245655) [cv](://github.com/fak/fakruger/blob/gh-pages/assets/fak.pdf) 
 
 
 
-![]({{ site.url }}/assets/fak.jpg)
+![](https://github.com/fak/fakruger/blob/gh-pages/assets/fak.jpg)
 
 Welcome to my website! 
 
@@ -35,7 +35,7 @@ In my thesis research, I integrated bioactivity data from the ChEMBL database wi
 
 2004 - 2009: Diploma in Molecular Biomedicine, University of Bonn
 
-Download full CV [here]({{ site.url }}/assets/fak.pdf).
+Download full CV [here](https://github.com/fak/fakruger/blob/gh-pages/assets/fak.pdf).
 
 
 ## Contact
