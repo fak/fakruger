@@ -1,6 +1,6 @@
 
 
-> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br>  [thesis]({{ site.url }}/assets/hard_bound.pdf) [cv]({{ site.url }}/assets/fak.pdf) 
+> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en) [thesis](https://www.repository.cam.ac.uk/handle/1810/245655) [cv]({{ site.url }}/assets/fak.pdf) 
 
 
 
@@ -16,7 +16,7 @@ I am a researcher at the Farr Institute London, where I work with Aroon Hingoran
 
 Previously, I obtained a PhD in Computational Biology from the University of Cambridge, working in John Overington's group at the European Bioinformatics Institute.
 
-In my thesis research, I integrated bioactivity data from the ChEMBL database with homology information from EnsemblCompara as well as the Pfam collection of protein families. This integration work allowed me to systematically analyse measured small molecule bioactivities in the context of protein evolution - for example by comparing susceptibility to small molecule perturbation in two relevant species, human and rat. You can download my thesis [here]({{ site.url }}/assets/hard_bound.pdf).
+In my thesis research, I integrated bioactivity data from the ChEMBL database with homology information from EnsemblCompara as well as the Pfam collection of protein families. This integration work allowed me to systematically analyse measured small molecule bioactivities in the context of protein evolution - for example by comparing susceptibility to small molecule perturbation in two relevant species, human and rat. You can download my thesis [here](https://www.repository.cam.ac.uk/handle/1810/245655).
 
 ## Publications and Conference Presentations
 
