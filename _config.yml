@@ -1,0 +1,9 @@
+title_tag_text: Felix A Kruger
+h1_tag_text: Felix A Kruger
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+ # Site settings
+email: fkruger@posteo.eu
+description: "This site provides information about Felix Kruger and my past     and current research interests. It also serves to collect thoughts and quest    ions that I would like to share and discuss with those who find it here. My     focus for this is on computational biology and drug discovery but for precis    ion look elsewhere."
+twitter_username: mo_sander
+github_username:  fak
