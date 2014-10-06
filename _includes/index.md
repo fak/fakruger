@@ -1,6 +1,6 @@
 
 
-> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
+> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)\|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)\|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
 
 
 
