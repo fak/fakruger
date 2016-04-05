@@ -1,6 +1,6 @@
 
 
-> Research Associate at Farr Institute London, Computational Biology, Genetic Epidemiology <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)\|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)\|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
+> Bioinformatician at Stratified Medical, London <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)\|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)\|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
 
 
 
@@ -8,13 +8,11 @@
 
 Welcome to my website! 
 
-I am a researcher at the Farr Institute London, where I work with Aroon Hingorani from UCL and Juan-Pablo Casas from London School of Hygiene and Tropical Medicine.
+I am a Bioinformatician at Stratified Medical in London. My interests are in genetics, chemical biology and molecular evolution.
 
- We are developing approaches to leverage genetic information from large patient cohorts for drug repurposing applications.
+Previous to my post a Stratfied Medical, I was a researcher at the Farr Institute London, where I worked with Aroon Hingorani from UCL and Juan-Pablo Casas from London School of Hygiene and Tropical Medicine, developing approaches to leverage genetic information from large patient cohorts for drug repurposing applications.
 
- Thus, I work with data from genotyping and clinical phenotyping as well as molecular data describing drugs' mechanism of action. 
-
-Previously, I obtained a PhD in Computational Biology from the University of Cambridge, working in John Overington's group at the European Bioinformatics Institute.
+I obtained a PhD in Computational Biology from the University of Cambridge, working in John Overington's group at the European Bioinformatics Institute.
 
 In my thesis research, I integrated bioactivity data from the ChEMBL database with homology information from EnsemblCompara as well as the Pfam collection of protein families. This integration work allowed me to systematically analyse measured small molecule bioactivities in the context of protein evolution - for example by comparing susceptibility to small molecule perturbation in two relevant species, human and rat. You can download my thesis [here](https://www.repository.cam.ac.uk/handle/1810/245655).
 
@@ -41,7 +39,5 @@ Download full CV [here](https://github.com/fak/fakruger/blob/gh-pages/assets/fak
 ## Contact
 
 Felix Kruger (Twitter: [mo_sander](http://twitter.com/mo_sander) / GitHub: [fak](http://github.com/fak)).
-
-
 
 This site was built with [Jekyll](http://jekyllrb.com/) and the [Solo](http://solo.chibi.io/) theme.
