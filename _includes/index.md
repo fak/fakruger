@@ -1,6 +1,6 @@
 
 
-> Bioinformatician at Stratified Medical, London <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)\|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)\|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
+> Bioinformatician at BenevolentAI, London <br> [google scholar](http://scholar.google.co.uk/citations?user=mZvWSesAAAAJ&hl=en)\|[thesis](https://www.repository.cam.ac.uk/handle/1810/245655)\|[cv](https://github.com/fak/fakruger/raw/gh-pages/assets/fak.pdf) 
 
 
 
@@ -8,9 +8,9 @@
 
 Welcome to my website! 
 
-I am a Bioinformatician at Stratified Medical in London. My interests are in genetics, chemical biology and molecular evolution.
+I am a Bioinformatician at BenevolentAI in London. My interests are in genetics, chemical biology and molecular evolution.
 
-Previous to my post a Stratfied Medical, I was a researcher at the Farr Institute London, where I worked with Aroon Hingorani from UCL and Juan-Pablo Casas from London School of Hygiene and Tropical Medicine, developing approaches to leverage genetic information from large patient cohorts for drug repurposing applications.
+Previous to my post at BenevolentAI, I was a researcher at the Farr Institute London, where I worked with Aroon Hingorani from UCL and Juan-Pablo Casas from London School of Hygiene and Tropical Medicine, developing approaches to leverage genetic information from large patient cohorts for drug repurposing applications.
 
 I obtained a PhD in Computational Biology from the University of Cambridge, working in John Overington's group at the European Bioinformatics Institute.
 
